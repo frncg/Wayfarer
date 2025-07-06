@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Enter_Housing.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
